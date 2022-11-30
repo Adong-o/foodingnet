@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+.button {
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 110px;
+    height: 40px;
+    background-color: khaki;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.button:hover {
+    color: aqua;
+}
+a {
+    border-radius: 20px;
+}
